@@ -1,6 +1,8 @@
 
 **General Notes**
 
+app : https://ema248.mybluemix.net/onlinecourse/
+
 An `onlinecourse` app has already been provided in this repo upon which you will be adding a new assesement feature.
 
 - If you want to develop the final project on Theia hosted by [IBM Developer Skills Network](https://labs.cognitiveclass.ai/), you will need to create the same project structure on Theia workspace and save it everytime you close the browser
